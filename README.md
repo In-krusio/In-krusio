@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=in-krusio&show_icons=true&locale=en" alt="in-krusio" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=in-krusio&" alt="in-krusio" /></p>
+
