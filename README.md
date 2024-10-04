@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaushik Raj Borah</h1>
 <h3 align="center">I  am a student currently pursuing B.tech CSE at KU. I have 2 years experience in web development and programming, with uttermost desire to learn modern languages.I am ambitious and enthusiastic Web developer. I thrive on challenge and constantly set goals for myself.</h3>
 
-<img align="right" alt="coding" width="400" src="![working](https://github.com/user-attachments/assets/63b6383e-9f28-4722-afaf-324553f1ae77)">
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/63b6383e-9f28-4722-afaf-324553f1ae77">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=in-krusio&label=Profile%20views&color=0e75b6&style=flat" alt="in-krusio" /> </p>
 
