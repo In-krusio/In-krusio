@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=in-krusio&label=Profile%20views&color=0e75b6&style=flat" alt="in-krusio" /> </p>
 
-- 🔭 I’m currently studying B.Tech CSE at **Kaziranga University**
+- 🔭 B.Tech CSE from **Kaziranga University**
 
 - 🌱 I’m currently learning **React frameworks and Data Structures and Algorithm.**
 
